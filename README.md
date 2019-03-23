@@ -14,6 +14,8 @@ Like các fanpage, group về áo cưới, studio ảnh cưới và tổ chức.
 
 Có một số người vẫn thích thiệp cưới, nên công việc này cần phải xử lý đầu tiên vì cần lựa chọn mẫu thiệp rồi điền các thông tin qua lại giữa người đặt và bên làm thiệp. Thông thường thì mất khoảng 1 tuần sẽ xong.
 
+*Lưu ý:* không được ghi sai tên bố mẹ vợ *bằng mọi giá*
+
 Link tham khảo: https://www.facebook.com/thiepcuoigau/
 
 ### Bước 3: Tìm studio để chụp ảnh (bước 2 và bước 3 nên làm song song)
