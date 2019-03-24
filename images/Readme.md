@@ -1,0 +1,1 @@
+Nơi chứa các file ảnh

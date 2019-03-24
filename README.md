@@ -10,4 +10,4 @@ Các ghi chép về thủ tục cưới hỏi, các bước chuẩn bị đượ
 
 ## Danh sách các contribute
 
-[Nguyễn Hoài Nam](../NguyenHoaiNam.md)
+[Nguyễn Hoài Nam](./NguyenHoaiNam.md)
